@@ -30,25 +30,7 @@
       />
       <br /><strong>CSS 3</strong>
     </td>
- <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
-        alt="Next.js"
-      />
-      <br /><strong>Next.js</strong>
-    </td>
-    <td align="center" height="108" width="108">
+<td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
         width="48"
@@ -93,6 +75,24 @@
         height="48"
         alt="Node.js"
       />
+ <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+       <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="Next.js"
+      />
+      <br /><strong>Next.js</strong>
+    </td>
       <br /><strong>Node.js</strong>
     </td>
     <td align="center" height="108" width="108">
