@@ -12,16 +12,6 @@
 
 <table>
   <tr>
-    
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-        width="48"
-        height="48"
-        alt="VueJS"
-      />
-      <br /><strong>Vue</strong>
-    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
