@@ -75,7 +75,7 @@
         height="48"
         alt="React"
       />
-      <br /><strong>React</strong>
+      <br /><strong>Javascript</strong>
     </td>
  <td align="center" height="108" width="108">
       <img
