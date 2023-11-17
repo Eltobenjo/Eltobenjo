@@ -14,21 +14,21 @@
   <tr>
  <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
         width="48"
         height="48"
         alt="React"
       />
-      <br /><strong>React</strong>
+      <br /><strong>HTML 5</strong>
     </td>
  <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
         width="48"
         height="48"
         alt="React"
       />
-      <br /><strong>React</strong>
+      <br /><strong>CSS 3</strong>
     </td>
 
 
